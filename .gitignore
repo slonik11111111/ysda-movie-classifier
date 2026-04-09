@@ -1,0 +1,4 @@
+artifacts/
+*.pt
+*.csv
+checkpoints/
